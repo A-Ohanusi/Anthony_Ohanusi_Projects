@@ -1,2 +1,2 @@
-# Regression-analysis
-Just some data analysis work for a project included data manipulation , regression analysis and plots.
+# Anthony Ohanusi Projects
+Repository of all my projects feel free to take a look :)
